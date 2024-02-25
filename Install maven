@@ -10,3 +10,5 @@ sudo ln -s /home/ubuntu/apache-maven-3.9.6/bin/mvn /usr/local/sbin/mvn
 
 echo"Giving full permission"
 sudo chmod 777 /usr/local/sbin/mvn
+
+echo"------jdk and maven installed------------"
