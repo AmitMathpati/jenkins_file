@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo apt update
+sudo apt install -y openjdk-17-jdk
+mkdir jenkins
+chmod 777 jenkins
+sudo apt update
